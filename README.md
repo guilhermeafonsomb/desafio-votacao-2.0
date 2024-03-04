@@ -22,3 +22,6 @@ Cada repositório possui um readme com as explicações de desições tomadas e 
 
 ##frontend
 ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular)(https://github.com/guilhermeafonsomb/frontend-desafio)
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
