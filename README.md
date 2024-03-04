@@ -18,10 +18,10 @@ Cada repositório possui um readme com as explicações de desições tomadas e 
 
 ##backend
 
-[![Nest Badge](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/guilhermeafonsomb/backend-desafio)
+[![Nest Badge](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)]
 
 ##frontend
-![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular)(https://github.com/guilhermeafonsomb/frontend-desafio)
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular)
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
