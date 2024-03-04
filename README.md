@@ -16,6 +16,8 @@ Essa solução deve ser executada na nuvem e promover as seguintes funcionalidad
 Esse desafio está separado em dois repositórios, o de frontend e o de backend.
 Cada repositório possui um readme com as explicações de desições tomadas e como rodar cada projeto.
 
+Link dos repositórios abaixo
+
 ##backend
 
 [![Nest Badge](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/guilhermeafonsomb/backend-desafio)
@@ -23,6 +25,3 @@ Cada repositório possui um readme com as explicações de desições tomadas e 
 ##frontend
 
 [![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular)](https://github.com/guilhermeafonsomb/frontend-desafio)
-
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
