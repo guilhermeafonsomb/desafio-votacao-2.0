@@ -1,4 +1,4 @@
-# Votação Guilherme Afonso
+# Desafio Votação Guilherme Afonso
 
 ## Objetivo
 
