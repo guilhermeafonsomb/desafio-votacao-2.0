@@ -1,4 +1,4 @@
-# Votação de pauta Guilherme Afonso
+# Votação de pauta 
 
 ## Objetivo
 
