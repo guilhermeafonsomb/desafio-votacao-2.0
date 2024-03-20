@@ -1,4 +1,4 @@
-# Desafio Votação Guilherme Afonso
+# Votação de pauta Guilherme Afonso
 
 ## Objetivo
 
